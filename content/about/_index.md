@@ -14,7 +14,7 @@ Generally speaking, my research interests focus on the application of mathematic
     **University of Melbourne** (2016-2019)
 
 ## Publications
-- Hugo, L., Zhang, S., Kim, YH. and Schiebinger, G., 2021. Towards a mathematical theory of trajectory inference. arXiv 2102.09204
+- Lavenant, H., Zhang, S., Kim, YH. and Schiebinger, G., 2021. Towards a mathematical theory of trajectory inference. arXiv 2102.09204
 - Zhang, S., Chong, A. and Hughes, B.D., 2019. Persistent exclusion processes: Inertia, drift, mixing, and correlation. Physical Review E, 100(4), p.042415.
 
 ## Software
