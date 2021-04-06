@@ -16,6 +16,7 @@ Generally speaking, my research interests focus on the application of mathematic
 ## Publications
 Note: **bold** denotes first or equal-first authorship.
 
+- __Zhang, S.__, 2021. Non-negative matrix and tensor factorisations with a smoothed Wasserstein loss. arXiv 2104.01708 [Preprint](https://arxiv.org/abs/2104.01708)
 - __Zhang, S.__, Afanassiev, A., Greenstreet, L., Matsumoto, T. and Schiebinger, G., 2021. Optimal transport analysis reveals trajectories in steady-state systems. bioRxiv. [Preprint](https://www.biorxiv.org/content/10.1101/2021.03.02.433630v1)
 - __Lavenant, H., Zhang, S.__, Kim, YH. and Schiebinger, G., 2021. Towards a mathematical theory of trajectory inference. arXiv 2102.09204 [Preprint](https://arxiv.org/abs/2102.09204)
 - __Zhang, S.__, Chong, A. and Hughes, B.D., 2019. Persistent exclusion processes: Inertia, drift, mixing, and correlation. Physical Review E, 100(4), p.042415. [Preprint](https://arxiv.org/abs/1907.10795) | [Article](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.042415)
