@@ -1,0 +1,3 @@
+@def title = "syz's page"
+@def tags = ["syntax", "code"]
+
